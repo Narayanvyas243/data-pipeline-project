@@ -97,7 +97,7 @@ This repository uses Git LFS to store large files (like the demo video).
 2. Clone the repository:
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Narayanvyas243/data-pipeline-project
    ```
 
 3. Pull LFS files:
